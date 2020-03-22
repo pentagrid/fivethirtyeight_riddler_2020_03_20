@@ -10,7 +10,7 @@ while 1:
         break
     day = day + 1
 
-print "the evening solution is on day " + str(day)
+print('the evening solution is on day ' + str(day))
 
 price = 100
 day = 1
@@ -26,4 +26,4 @@ while 1:
         break
     day = day + 1
 
-print "the morning solution is on day " + str(day)
+print('the morning solution is on day ' + str(day))
