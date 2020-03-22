@@ -1,5 +1,5 @@
 price = 100
-day = 0
+day = 1
 
 while 1:
     #morning
@@ -13,7 +13,7 @@ while 1:
 print "the evening solution is on day " + str(day)
 
 price = 100
-day = 0
+day = 1
 
 while 1:
     #morning
