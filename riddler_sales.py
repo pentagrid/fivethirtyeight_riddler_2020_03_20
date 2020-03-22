@@ -1,5 +1,5 @@
 price = 100
-day = 1
+day = 0
 
 while 1:
     #morning
